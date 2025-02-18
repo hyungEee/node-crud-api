@@ -1,4 +1,5 @@
 # crud api (Node.js)
+Node.js를 활용하여 to-do list의 crud api를 구현했습니다.
 
 ### 실행화면
 ![실행화면1](https://github.com/hyungEee/node-crud-api/blob/main/img/crud1.png)
