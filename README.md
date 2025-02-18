@@ -1,5 +1,5 @@
-# CRUD api (Node.js)
-to-do list의 crud 기능을 구현했습니다.
+# CRUD API (To-do list) with Node.js
+Node.js를 활용하여 to-do list의 CRUD API를 구현했습니다.
 
 ### 실행화면
 POST
